@@ -1,0 +1,1697 @@
+LinkChecker 10.0.1
+Copyright (C) 2000-2016 Bastian Kleineidam, 2010-2021 LinkChecker Authors
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it under
+certain conditions. Look at the file `LICENSE' within this distribution.
+Get the newest version at https://linkchecker.github.io/linkchecker/
+Write comments and bugs to https://github.com/linkchecker/linkchecker/issues
+
+Start checking at 2021-02-26 14:54:31+003
+
+URL        `/assets/images/customer-grusha.jpg'
+Name       `avatar'
+Parent URL https://staronka.kz/example/olia-by, line 188, col 29
+Real URL   https://staronka.kz/assets/images/customer-grusha.jpg
+Check time 2.484 seconds
+Result     Error: 404 Not Found
+
+URL        `/assets/images/customer-yarosh.jpg'
+Name       `avatar'
+Parent URL https://staronka.kz/example/yarosh-by, line 188, col 29
+Real URL   https://staronka.kz/assets/images/customer-yarosh.jpg
+Check time 3.284 seconds
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/sozdaniie-saita-i-intierniet-maghazina-v-odnom-miestie/, line 273, col 163
+Real URL   https://staronka.kz/blog/sozdaniie-saita-i-intierniet-maghazina-v-odnom-miestie/help@staronka.by/
+Check time 3.411 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/sozdaniie-saita-i-intierniet-maghazina-v-odnom-miestie/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/lib/images/logo/staronka-branding-dark.png'
+Parent URL https://staronka.kz/app/css/style-8e3f640a98665f3b762c.css, line 25820, col 30
+Real URL   https://staronka.kz/lib/images/logo/staronka-branding-dark.png
+Check time 3.162 seconds
+Result     Error: 404 Not Found
+
+URL        `/lib/images/logo/staronka-branding-light.png'
+Parent URL https://staronka.kz/app/css/style-8e3f640a98665f3b762c.css, line 25824, col 24
+Real URL   https://staronka.kz/lib/images/logo/staronka-branding-light.png
+Check time 3.330 seconds
+Result     Error: 404 Not Found
+
+URL        `/lib/images/logo/koshyk-branding-light.png'
+Parent URL https://staronka.kz/app/css/style-8e3f640a98665f3b762c.css, line 35176, col 24
+Real URL   https://staronka.kz/lib/images/logo/koshyk-branding-light.png
+Check time 2.475 seconds
+Result     Error: 404 Not Found
+
+URL        `/lib/images/logo/koshyk-branding-dark.png'
+Parent URL https://staronka.kz/app/css/style-8e3f640a98665f3b762c.css, line 35172, col 30
+Real URL   https://staronka.kz/lib/images/logo/koshyk-branding-dark.png
+Check time 3.244 seconds
+Result     Error: 404 Not Found
+
+URL        `https://Ð²Ð°ÑÐ´Ð¾Ð¼ÐµÐ½.by/spasibo?zvonok'
+Name       `https://Ð²Ð°ÑÐ´Ð¾Ð¼ÐµÐ½.by/spasibo?zvonok'
+Parent URL https://staronka.kz/blog/novyie-vozmozhnosti-form-pierienapravlieniie-na-spasibo-stranits-poslie-otpravki-zakaza-ili-oplaty/, line 278, col 147
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: URL has unparsable domain name: encoding with 'idna' codec failed (UnicodeError: Invalid character '\x88')
+
+URL        `https://Ð²Ð°ÑÐ´Ð¾Ð¼ÐµÐ½.by/spasibo?zvonok'
+Name       `https://Ð²Ð°ÑÐ´Ð¾Ð¼ÐµÐ½.by/spasibo?zvonok'
+Parent URL https://staronka.kz/blog/novyie-vozmozhnosti-form-pierienapravlieniie-na-spasibo-stranits-poslie-otpravki-zakaza-ili-oplaty/amp/, line 895, col 147
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: URL has unparsable domain name: encoding with 'idna' codec failed (UnicodeError: Invalid character '\x88')
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/izmienieniie-v-rabotie-opovieshchienii-o-zakazakh/, line 267, col 163
+Real URL   https://staronka.kz/blog/izmienieniie-v-rabotie-opovieshchienii-o-zakazakh/help@staronka.by/
+Check time 2.808 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/izmienieniie-v-rabotie-opovieshchienii-o-zakazakh/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/novyie-vozmozhnosti-form-pierienapravlieniie-na-spasibo-stranits-poslie-otpravki-zakaza-ili-oplaty/, line 280, col 165
+Real URL   https://staronka.kz/blog/novyie-vozmozhnosti-form-pierienapravlieniie-na-spasibo-stranits-poslie-otpravki-zakaza-ili-oplaty/help@staronka.by/
+Check time 3.768 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/novyie-vozmozhnosti-form-pierienapravlieniie-na-spasibo-stranits-poslie-otpravki-zakaza-ili-oplaty/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/obnovlieniie-intierfieisa-sozdaniia-saitov/, line 272, col 165
+Real URL   https://staronka.kz/blog/obnovlieniie-intierfieisa-sozdaniia-saitov/help@staronka.by/
+Check time 4.325 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/obnovlieniie-intierfieisa-sozdaniia-saitov/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/addons/easypay'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/unisender, line 291, col 13
+Real URL   https://staronka.kz/addons/easypay
+Check time 3.924 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/bepaid'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/easypay, line 187, col 13
+Real URL   https://staronka.kz/addons/bepaid
+Check time 3.276 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/unisender'
+Name       `← ÐÑÐµÐ´ÑÐ´ÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ'
+Parent URL https://staronka.kz/addon/easypay, line 179, col 13
+Real URL   https://staronka.kz/addons/unisender
+Check time 3.915 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/expresspay'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/bepaid, line 225, col 13
+Real URL   https://staronka.kz/addons/expresspay
+Check time 2.375 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/artpay'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/expresspay, line 231, col 13
+Real URL   https://staronka.kz/addons/artpay
+Check time 3.198 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/webpay'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/artpay, line 187, col 13
+Real URL   https://staronka.kz/addons/webpay
+Check time 3.373 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/amocrm-form'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/webpay, line 228, col 13
+Real URL   https://staronka.kz/addons/amocrm-form
+Check time 3.122 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/yagla'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/amocrm-form, line 234, col 13
+Real URL   https://staronka.kz/addons/yagla
+Check time 3.194 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/mailchimp'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/yagla, line 187, col 13
+Real URL   https://staronka.kz/addons/mailchimp
+Check time 2.872 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/ucalc'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/mailchimp, line 281, col 13
+Real URL   https://staronka.kz/addons/ucalc
+Check time 2.819 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/megaplan-form'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/ucalc, line 299, col 13
+Real URL   https://staronka.kz/addons/megaplan-form
+Check time 3.716 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/bitrix24-form'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/megaplan-form, line 240, col 13
+Real URL   https://staronka.kz/addons/bitrix24-form
+Check time 4.268 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/jivosite'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/bitrix24-form, line 187, col 13
+Real URL   https://staronka.kz/addons/jivosite
+Check time 4.741 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/vk-chat'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/jivosite, line 310, col 13
+Real URL   https://staronka.kz/addons/vk-chat
+Check time 4.199 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/yandex-metrika'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/vk-chat, line 267, col 13
+Real URL   https://staronka.kz/addons/yandex-metrika
+Check time 4.965 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/google-analytics'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/yandex-metrika, line 187, col 13
+Real URL   https://staronka.kz/addons/google-analytics
+Check time 4.964 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/chatra'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/google-analytics, line 231, col 13
+Real URL   https://staronka.kz/addons/chatra
+Check time 3.356 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/callbacky'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/chatra, line 222, col 13
+Real URL   https://staronka.kz/addons/callbacky
+Check time 3.758 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/zapros'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/callbacky, line 187, col 13
+Real URL   https://staronka.kz/addons/zapros
+Check time 3.600 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/yclients'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/zapros, line 292, col 13
+Real URL   https://staronka.kz/addons/yclients
+Check time 2.519 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/yandex-verification'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/pozvonim, line 187, col 13
+Real URL   https://staronka.kz/addons/yandex-verification
+Check time 3.118 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/pozvonim'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/yclients, line 315, col 13
+Real URL   https://staronka.kz/addons/pozvonim
+Check time 3.286 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/google-site-verification'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/yandex-verification, line 272, col 13
+Real URL   https://staronka.kz/addons/google-site-verification
+Check time 3.575 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/google-tag-manager'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/google-site-verification, line 187, col 13
+Real URL   https://staronka.kz/addons/google-tag-manager
+Check time 3.375 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/yandex-mail'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/google-tag-manager, line 187, col 13
+Real URL   https://staronka.kz/addons/yandex-mail
+Check time 3.361 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/mailru-verification'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/yandex-mail, line 273, col 13
+Real URL   https://staronka.kz/addons/mailru-verification
+Check time 3.665 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/mailru-mail'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/mailru-verification, line 187, col 13
+Real URL   https://staronka.kz/addons/mailru-mail
+Check time 4.085 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/tumblr-blog'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/mailru-mail, line 276, col 13
+Real URL   https://staronka.kz/addons/tumblr-blog
+Check time 3.841 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/venyoo'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/tumblr-blog, line 187, col 13
+Real URL   https://staronka.kz/addons/venyoo
+Check time 3.849 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/callbox'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/venyoo, line 187, col 13
+Real URL   https://staronka.kz/addons/callbox
+Check time 3.915 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/sumome'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/callbox, line 288, col 13
+Real URL   https://staronka.kz/addons/sumome
+Check time 3.038 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/mailru-rating'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/sumome, line 231, col 13
+Real URL   https://staronka.kz/addons/mailru-rating
+Check time 3.048 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/vk-pixel'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/mailru-rating, line 187, col 13
+Real URL   https://staronka.kz/addons/vk-pixel
+Check time 3.165 seconds
+Result     Error: 404 Not Found
+
+URL        `/addons/fb-pixel'
+Name       `Ð¡Ð»ÐµÐ´ÑÑÑÐµÐµ ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ\n                    →'
+Parent URL https://staronka.kz/addon/vk-pixel, line 187, col 13
+Real URL   https://staronka.kz/addons/fb-pixel
+Check time 2.913 seconds
+Result     Error: 404 Not Found
+
+URL        `hello@staronka.by'
+Name       `hello@staronka.by'
+Parent URL https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-psikhologhov-kouchiei-ghieshtalt-tierapievtov-i-astrologhov/, line 275, col 79
+Real URL   https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-psikhologhov-kouchiei-ghieshtalt-tierapievtov-i-astrologhov/hello@staronka.by/
+Check time 3.380 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-psikhologhov-kouchiei-ghieshtalt-tierapievtov-i-astrologhov/hello@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/sozdaniie-saita-i-intierniet-maghazina-v-odnom-miestie/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/sozdaniie-saita-i-intierniet-maghazina-v-odnom-miestie/amp/, line 890, col 296
+Real URL   https://staronka.kz/sozdaniie-saita-i-intierniet-maghazina-v-odnom-miestie/help@staronka.by
+Check time 2.425 seconds
+Result     Error: 404 Not Found
+
+URL        `/izmienieniie-v-rabotie-opovieshchienii-o-zakazakh/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/izmienieniie-v-rabotie-opovieshchienii-o-zakazakh/amp/, line 884, col 296
+Real URL   https://staronka.kz/izmienieniie-v-rabotie-opovieshchienii-o-zakazakh/help@staronka.by
+Check time 3.448 seconds
+Result     Error: 404 Not Found
+
+URL        `/novyie-vozmozhnosti-form-pierienapravlieniie-na-spasibo-stranits-poslie-otpravki-zakaza-ili-oplaty/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/novyie-vozmozhnosti-form-pierienapravlieniie-na-spasibo-stranits-poslie-otpravki-zakaza-ili-oplaty/amp/, line 897, col 300
+Real URL   https://staronka.kz/novyie-vozmozhnosti-form-pierienapravlieniie-na-spasibo-stranits-poslie-otpravki-zakaza-ili-oplaty/help@staronka.by
+Check time 3.353 seconds
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/novyi-vid-razdiela-rasshirieniia/, line 271, col 221
+Real URL   https://staronka.kz/blog/novyi-vid-razdiela-rasshirieniia/help@staronka.by/
+Check time 4.197 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/novyi-vid-razdiela-rasshirieniia/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/obnovlieniie-nastroiek-form-obratnoi-sviazi/, line 271, col 156
+Real URL   https://staronka.kz/blog/obnovlieniie-nastroiek-form-obratnoi-sviazi/help@staronka.by/
+Check time 4.581 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/obnovlieniie-nastroiek-form-obratnoi-sviazi/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/obnovlieniie-intierfieisa-sozdaniia-saitov/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/obnovlieniie-intierfieisa-sozdaniia-saitov/amp/, line 889, col 300
+Real URL   https://staronka.kz/obnovlieniie-intierfieisa-sozdaniia-saitov/help@staronka.by
+Check time 3.287 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/app/'
+Name       `Ð¡Ð¾Ð·Ð´Ð°ÑÑ ÑÐ°Ð¹Ñ'
+Parent URL https://staronka.kz/blog/novoghodniaia-aktsiia-ot-staronki-kruti-kolieso-udachi-i-vyighrai-skidki-i-prizy/amp/, line 884, col 1
+Real URL   https://staronka.kz/blog/app/
+Check time 2.782 seconds
+Info       Redirected to `https://staronka.kz/blog/app/'.
+Result     Error: 404 Not Found
+
+URL        `/skidka-30-na-vsie-tarify-dlia-saitov-psikhologhov-kouchiei-ghieshtalt-tierapievtov-i-astrologhov/hello@staronka.by'
+Name       `hello@staronka.by'
+Parent URL https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-psikhologhov-kouchiei-ghieshtalt-tierapievtov-i-astrologhov/amp/, line 892, col 140
+Real URL   https://staronka.kz/skidka-30-na-vsie-tarify-dlia-saitov-psikhologhov-kouchiei-ghieshtalt-tierapievtov-i-astrologhov/hello@staronka.by
+Check time 3.806 seconds
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/chto-takoie-sait-vizitka-i-kak-iegho-sozdat/, line 301, col 317
+Real URL   https://staronka.kz/blog/chto-takoie-sait-vizitka-i-kak-iegho-sozdat/help@staronka.by/
+Check time 3.174 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/chto-takoie-sait-vizitka-i-kak-iegho-sozdat/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/novyi-vid-razdiela-rasshirieniia/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/novyi-vid-razdiela-rasshirieniia/amp/, line 888, col 402
+Real URL   https://staronka.kz/novyi-vid-razdiela-rasshirieniia/help@staronka.by
+Check time 3.655 seconds
+Result     Error: 404 Not Found
+
+URL        `/obnovlieniie-nastroiek-form-obratnoi-sviazi/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/obnovlieniie-nastroiek-form-obratnoi-sviazi/amp/, line 888, col 282
+Real URL   https://staronka.kz/obnovlieniie-nastroiek-form-obratnoi-sviazi/help@staronka.by
+Check time 3.911 seconds
+Result     Error: 404 Not Found
+
+URL        `ttps://partnerrewards.withgoogle.com/ru'
+Name       `Game On'
+Parent URL https://staronka.kz/blog/kontekstaya-reklama-google-adwords/, line 251, col 462
+Real URL   ttps://partnerrewards.withgoogle.com/ru
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Result     Error: URL is unrecognized or has invalid syntax
+
+URL        `raschet.by'
+Name       `raschet.by'
+Parent URL https://staronka.kz/blog/kak-podluchit-erip-i-primanit-platezhi-cherez-site/, line 289, col 45
+Real URL   https://staronka.kz/blog/kak-podluchit-erip-i-primanit-platezhi-cherez-site/raschet.by/
+Check time 2.995 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/kak-podluchit-erip-i-primanit-platezhi-cherez-site/raschet.by/'.
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/kak-polzovatsia-instrumientami-dlia-seo-poiskovaia-optimizatsiia-v-staronkie/, line 326, col 482
+Real URL   https://staronka.kz/blog/kak-polzovatsia-instrumientami-dlia-seo-poiskovaia-optimizatsiia-v-staronkie/help@staronka.by/
+Check time 3.687 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/kak-polzovatsia-instrumientami-dlia-seo-poiskovaia-optimizatsiia-v-staronkie/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/chto-takoie-sait-vizitka-i-kak-iegho-sozdat/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/chto-takoie-sait-vizitka-i-kak-iegho-sozdat/amp/, line 918, col 543
+Real URL   https://staronka.kz/chto-takoie-sait-vizitka-i-kak-iegho-sozdat/help@staronka.by
+Check time 3.860 seconds
+Result     Error: 404 Not Found
+
+URL        `/kak-podluchit-erip-i-primanit-platezhi-cherez-site/raschet.by'
+Name       `raschet.by'
+Parent URL https://staronka.kz/blog/kak-podluchit-erip-i-primanit-platezhi-cherez-site/amp/, line 906, col 63
+Real URL   https://staronka.kz/kak-podluchit-erip-i-primanit-platezhi-cherez-site/raschet.by
+Check time 3.709 seconds
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/kak-sdielat-sait-po-dostavkie-iedy-v-koshykie/, line 342, col 260
+Real URL   https://staronka.kz/blog/kak-sdielat-sait-po-dostavkie-iedy-v-koshykie/help@staronka.by/
+Check time 3.334 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/kak-sdielat-sait-po-dostavkie-iedy-v-koshykie/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/kak-polzovatsia-instrumientami-dlia-seo-poiskovaia-optimizatsiia-v-staronkie/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/kak-polzovatsia-instrumientami-dlia-seo-poiskovaia-optimizatsiia-v-staronkie/amp/, line 947, col 878
+Real URL   https://staronka.kz/kak-polzovatsia-instrumientami-dlia-seo-poiskovaia-optimizatsiia-v-staronkie/help@staronka.by
+Check time 3.558 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/app/dashboard/billing/'
+Name       `ÐÑÑÑÐ°Ð²Ð¸ÑÑ ÑÑÐµÑ ÑÐ¾ ÑÐºÐ¸Ð´ÐºÐ¾Ð¹'
+Parent URL https://staronka.kz/blog/happy-new-year-2020/amp/, line 885, col 1
+Real URL   https://staronka.kz/blog/app/dashboard/billing/
+Check time 3.658 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/app/dashboard/billing/'.
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/app/signup'
+Name       `ÐºÐ¾Ð½ÑÑÑÑÐºÑÐ¾ÑÐµ ÑÐ°Ð¹ÑÐ¾Ð²'
+Parent URL https://staronka.kz/blog/kak-uchitieliu-poluchit-biesplatnyi-sait/amp/, line 877, col 43
+Real URL   https://staronka.kz/blog/app/signup/
+Check time 3.877 seconds
+Info       Redirected to `https://staronka.kz/blog/app/signup'.
+           Redirected to `https://staronka.kz/blog/app/signup/'.
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by.'
+Parent URL https://staronka.kz/blog/kak-samostoiatielno-sozdat-intierniet-maghazin-biez-znaniia-proghrammirovaniia/, line 361, col 256
+Real URL   https://staronka.kz/blog/kak-samostoiatielno-sozdat-intierniet-maghazin-biez-znaniia-proghrammirovaniia/help@staronka.by/
+Check time 3.201 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/kak-samostoiatielno-sozdat-intierniet-maghazin-biez-znaniia-proghrammirovaniia/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/kak-sdielat-sait-po-dostavkie-iedy-v-koshykie/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/kak-sdielat-sait-po-dostavkie-iedy-v-koshykie/amp/, line 959, col 472
+Real URL   https://staronka.kz/kak-sdielat-sait-po-dostavkie-iedy-v-koshykie/help@staronka.by
+Check time 2.888 seconds
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/podkliuchaite-ierip-ot-khutki-grosh-s-vygodoi/, line 301, col 109
+Real URL   https://staronka.kz/blog/podkliuchaite-ierip-ot-khutki-grosh-s-vygodoi/help@staronka.by/
+Check time 3.665 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/podkliuchaite-ierip-ot-khutki-grosh-s-vygodoi/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/kak-zapustit-sait-dlia-riemiesliennika/, line 340, col 274
+Real URL   https://staronka.kz/blog/kak-zapustit-sait-dlia-riemiesliennika/help@staronka.by/
+Check time 3.207 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/kak-zapustit-sait-dlia-riemiesliennika/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/kak-samostoiatielno-sozdat-intierniet-maghazin-biez-znaniia-proghrammirovaniia/help@staronka.by'
+Name       `help@staronka.by.'
+Parent URL https://staronka.kz/blog/kak-samostoiatielno-sozdat-intierniet-maghazin-biez-znaniia-proghrammirovaniia/amp/, line 978, col 464
+Real URL   https://staronka.kz/kak-samostoiatielno-sozdat-intierniet-maghazin-biez-znaniia-proghrammirovaniia/help@staronka.by
+Check time 2.881 seconds
+Result     Error: 404 Not Found
+
+URL        `/podkliuchaite-ierip-ot-khutki-grosh-s-vygodoi/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/podkliuchaite-ierip-ot-khutki-grosh-s-vygodoi/amp/, line 918, col 198
+Real URL   https://staronka.kz/podkliuchaite-ierip-ot-khutki-grosh-s-vygodoi/help@staronka.by
+Check time 3.775 seconds
+Result     Error: 404 Not Found
+
+URL        `/kak-zapustit-sait-dlia-riemiesliennika/help@staronka.by'
+Name       `help@staronka.by'
+Parent URL https://staronka.kz/blog/kak-zapustit-sait-dlia-riemiesliennika/amp/, line 957, col 497
+Real URL   https://staronka.kz/kak-zapustit-sait-dlia-riemiesliennika/help@staronka.by
+Check time 3.617 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/why-stealing-is-so-bad/amp/'
+Parent URL https://staronka.kz/blog/why-stealing-is-so-bad/, line 34, col 5
+Real URL   https://staronka.kz/blog/why-stealing-is-so-bad/amp/
+Check time 3.371 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/why-stealing-is-so-bad/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/new-logo/'
+Name       `Новый логотип\nДрузья, если вы внимательно следите за нашими успехами, то уже могли заметить, что в рекламе и продвижении мы уже…'
+Parent URL https://staronka.kz/blog/why-stealing-is-so-bad/, line 403, col 17
+Real URL   https://staronka.kz/blog/new-logo/
+Check time 3.835 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/page/10/'
+Parent URL https://staronka.kz/blog/page/9/, line 35, col 5
+Real URL   https://staronka.kz/blog/page/10/
+Check time 3.788 seconds
+Size       182B
+Info       Redirected to `https://staronka.kz/blog/page/10/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/page/10/'
+Name       `10'
+Parent URL https://staronka.kz/blog/page/9/, line 379, col 17
+Real URL   https://staronka.kz/blog/page/10/
+Check time 3.736 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/author/alik/page/7/'
+Name       `7'
+Parent URL https://staronka.kz/blog/author/alik/page/6/, line 345, col 17
+Real URL   https://staronka.kz/blog/author/alik/page/7/
+Check time 3.056 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/author/alik/page/7/'
+Parent URL https://staronka.kz/blog/author/alik/page/6/, line 35, col 5
+Real URL   https://staronka.kz/blog/author/alik/page/7/
+Check time 3.843 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/author/alik/page/7/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/'
+Parent URL https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/, line 32, col 13
+Real URL   https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/
+Check time 3.182 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/app/signup?utm_source=blog&utm_medium=link&utm_campaign=belagroprombank/'
+Name       `Ð¡Ð¾Ð·Ð´Ð°ÑÑ ÑÐ°Ð¹Ñ'
+Parent URL https://staronka.kz/blog/poluchi-skidku-na-sait-i-onlain-platezhi/amp/, line 879, col 1
+Real URL   https://staronka.kz/blog/app/signup?utm_source=blog&utm_medium=link&utm_campaign=belagroprombank/
+Check time 3.695 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/app/signup?utm_source=blog&utm_medium=link&utm_campaign=belagroprombank/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/amp/'
+Parent URL https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/, line 34, col 5
+Real URL   https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/amp/
+Check time 3.956 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/content/images/2020/03/undraw_buy_house_560d.png'
+Name       `alt'
+Parent URL https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/, line 251, col 4
+Real URL   https://staronka.kz/blog/content/images/2020/03/undraw_buy_house_560d.png
+Check time 3.768 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/kataloghi-poisk-vybor-dobavlieniie/'
+Name       `Каталоги: поиск, выбор, добавление\nЧто такое каталоги и для чего они нужны Каталог — это сайт, на котором размещается огромное количество ссылок на другие…'
+Parent URL https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/, line 378, col 17
+Real URL   https://staronka.kz/blog/kataloghi-poisk-vybor-dobavlieniie/
+Check time 3.528 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/content/images/2020/03/60ocI6iwEK7mjq019rLIoW0OxVo.jpg'
+Parent URL https://staronka.kz/blog/skidka-30-na-vsie-tarify-dlia-saitov-po-ariendie-aghrousadieb-kottiedzhiei-i-bannykh-komplieksov/, line 378, col 17
+Real URL   https://staronka.kz/blog/content/images/2020/03/60ocI6iwEK7mjq019rLIoW0OxVo.jpg
+Check time 3.694 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/kak-sozdat-zapominayushchiysya-zagolovok/'
+Parent URL https://staronka.kz/blog/kak-sozdat-zapominayushchiysya-zagolovok/, line 32, col 13
+Real URL   https://staronka.kz/blog/kak-sozdat-zapominayushchiysya-zagolovok/
+Check time 3.999 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/kak-sozdat-zapominayushchiysya-zagolovok/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2015/Ð´ÐµÐº/first-clone.jpg'
+Parent URL https://staronka.kz/blog/why-stealing-is-so-bad/, line 246, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BA/first-clone.jpg
+Check time 3.846 seconds
+Result     Error: 404 Not Found
+
+URL        `help@staronka.by'
+Name       `help@staronka.by.'
+Parent URL https://staronka.kz/blog/chto-takoie-lichnyi-briend-iurista-i-pochiemu-on-vazhien/, line 267, col 805
+Real URL   https://staronka.kz/blog/chto-takoie-lichnyi-briend-iurista-i-pochiemu-on-vazhien/help@staronka.by/
+Check time 3.701 seconds
+Info       Redirected to
+           `https://staronka.kz/blog/chto-takoie-lichnyi-briend-iurista-i-pochiemu-on-vazhien/help@staronka.by/'.
+Result     Error: 404 Not Found
+
+URL        `/chto-takoie-lichnyi-briend-iurista-i-pochiemu-on-vazhien/help@staronka.by'
+Name       `help@staronka.by.'
+Parent URL https://staronka.kz/blog/chto-takoie-lichnyi-briend-iurista-i-pochiemu-on-vazhien/amp/, line 884, col 1380
+Real URL   https://staronka.kz/chto-takoie-lichnyi-briend-iurista-i-pochiemu-on-vazhien/help@staronka.by
+Check time 3.378 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/todays-the-day/amp/'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 34, col 5
+Real URL   https://staronka.kz/blog/todays-the-day/amp/
+Check time 3.278 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/todays-the-day/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/editor-new-section.jpg'
+Name       `ÐÐ¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð³Ð¾ ÑÐ°Ð·Ð´ÐµÐ»Ð°'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 269, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/editor-new-section.jpg
+Check time 3.476 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/editor-section-settings.jpg'
+Name       `ÐÐ°ÑÑÑÐ¾Ð¹ÐºÐ¸ ÑÐ°Ð·Ð´ÐµÐ»Ð°'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 273, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/editor-section-settings.jpg
+Check time 3.378 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/editor-inline.png'
+Name       `Ð ÐµÐ´Ð°ÐºÑÐ¾Ñ'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 281, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/editor-inline.png
+Check time 3.236 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/editor-site-settings.jpg'
+Name       `Ð¡ÑÐ¸Ð»ÑÑÐ°Ð¹ÑÐ° Ð¸ Ð¼ÐµÐ½Ñ ÑÐ°Ð¹ÑÐ°'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 277, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/editor-site-settings.jpg
+Check time 3.602 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/dashboard-stats.jpg'
+Name       `ÐÐ°ÐºÐ»Ð°Ð´ÐºÐ° ÑÑÐ°ÑÐ¸ÑÑÐ¸ÐºÐ¸'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 289, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/dashboard-stats.jpg
+Check time 3.014 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/dashboard-orders.jpg'
+Name       `ÐÐ°ÐºÐ»Ð°Ð´ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð¾Ð²'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 293, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/dashboard-orders.jpg
+Check time 3.227 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/dashboard-meta.jpg'
+Name       `ÐÐ°ÐºÐ»Ð°Ð´ÐºÐ¸ Ð¸Ð½ÑÐ¾ÑÐ¼Ð°ÑÐ¸Ð¸ Ð¸ ÑÐ¾ÑÐ¼'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 297, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/dashboard-meta.jpg
+Check time 2.778 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/dashboard-billing.jpg'
+Name       `ÐÐ°ÐºÐ»Ð°Ð´ÐºÐ¸ Ð°Ð´ÑÐµÑÐ°, ÑÐµÐºÐ²Ð¸Ð·Ð¸ÑÐ¾Ð², Ð±Ð¸Ð»Ð»Ð¸Ð½Ð³Ð°'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 301, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/dashboard-billing.jpg
+Check time 2.908 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/site-plans.png'
+Name       `Ð¢Ð°ÑÐ¸ÑÑ'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 309, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/site-plans.png
+Check time 2.969 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/8nm3qhywqno.jpg'
+Name       `ÐÐ¾ÐµÑÐ°Ð»Ð¸!'
+Parent URL https://staronka.kz/blog/todays-the-day/, line 321, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/8nm3qhywqno.jpg
+Check time 3.335 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/2015-report-jun/amp/'
+Parent URL https://staronka.kz/blog/2015-report-jun/, line 34, col 5
+Real URL   https://staronka.kz/blog/2015-report-jun/amp/
+Check time 4.041 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/2015-report-jun/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/2015-report-jul/'
+Name       `Второй месяц, детективная история\nАвгуст уже наступил, а значит пора рассказать о наших успехах и приключениях за июль. Кроме стандартных цифр, я расскажу…'
+Parent URL https://staronka.kz/blog/2015-report-jun/, line 368, col 17
+Real URL   https://staronka.kz/blog/2015-report-jul/
+Check time 4.495 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/150525-update-onboarding/amp/'
+Parent URL https://staronka.kz/blog/150525-update-onboarding/, line 34, col 5
+Real URL   https://staronka.kz/blog/150525-update-onboarding/amp/
+Check time 4.077 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/150525-update-onboarding/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/150416-update-editor/amp/'
+Parent URL https://staronka.kz/blog/150416-update-editor/, line 34, col 5
+Real URL   https://staronka.kz/blog/150416-update-editor/amp/
+Check time 4.122 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/150416-update-editor/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/150216-update-domains/amp/'
+Parent URL https://staronka.kz/blog/150216-update-domains/, line 34, col 5
+Real URL   https://staronka.kz/blog/150216-update-domains/amp/
+Check time 3.776 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/150216-update-domains/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/150121-update-ui/amp/'
+Parent URL https://staronka.kz/blog/150121-update-ui/, line 34, col 5
+Real URL   https://staronka.kz/blog/150121-update-ui/amp/
+Check time 4.056 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/150121-update-ui/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/staronka-bynet-2014/'
+Name       `Чем нам запомнился 2014 год\nВ конце года принято подводить итоги и мы не будем исключением. Главный итог этого года для нас — как бы…'
+Parent URL https://staronka.kz/blog/150121-update-ui/, line 393, col 17
+Real URL   https://staronka.kz/blog/staronka-bynet-2014/
+Check time 3.831 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/150102-update-erip/amp/'
+Parent URL https://staronka.kz/blog/150102-update-erip/, line 34, col 5
+Real URL   https://staronka.kz/blog/150102-update-erip/amp/
+Check time 3.832 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/150102-update-erip/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/author/egor-kuryanovich/page/11/'
+Parent URL https://staronka.kz/blog/author/egor-kuryanovich/page/10/, line 35, col 5
+Real URL   https://staronka.kz/blog/author/egor-kuryanovich/page/11/
+Check time 4.012 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/author/egor-kuryanovich/page/11/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2015/Ð¸ÑÐ»Ñ/2015-jun.jpg'
+Parent URL https://staronka.kz/blog/2015-report-jun/, line 257, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/2015-jun.jpg
+Check time 3.817 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ»Ñ/IMG_0618.JPG'
+Parent URL https://staronka.kz/blog/2015-report-jun/, line 267, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/IMG_0618.JPG
+Check time 4.134 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/onboarding-funnel.jpg'
+Name       `ÐÐ¾ÑÐ¾Ð½ÐºÐ° ÐºÐ¾Ð½Ð²ÐµÑÑÐ¸Ð¸'
+Parent URL https://staronka.kz/blog/150525-update-onboarding/, line 257, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/onboarding-funnel.jpg
+Check time 3.517 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/onboarding-timeline.jpg'
+Name       `Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾ÑÐ°Ð´Ð¾ÑÐ½ÑÑ Ð¿Ð¸ÑÐµÐ¼'
+Parent URL https://staronka.kz/blog/150525-update-onboarding/, line 265, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/onboarding-timeline.jpg
+Check time 3.152 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/egor-is-so-egor.png'
+Name       `ÐÐ¸ÑÑÐ¼Ð¾ Ð¾Ñ ÐÐ³Ð¾ÑÐ° Ð¸Ð· Ð¡ÑÐ°ÑÐ¾Ð½ÐºÐ¸'
+Parent URL https://staronka.kz/blog/150525-update-onboarding/, line 269, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/egor-is-so-egor.png
+Check time 3.452 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¸ÑÐ½Ñ/mail-cta-example.jpg'
+Name       `ÐÐ¸ÑÑÐ¼Ð° Ñ Ð¿ÑÐ¸Ð·ÑÐ²Ð¾Ðº Ðº Ð´ÐµÐ¹ÑÑÐ²Ð¸Ñ'
+Parent URL https://staronka.kz/blog/150525-update-onboarding/, line 273, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/mail-cta-example.jpg
+Check time 3.669 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/141222-update-domain/amp/'
+Parent URL https://staronka.kz/blog/141222-update-domain/, line 34, col 5
+Real URL   https://staronka.kz/blog/141222-update-domain/amp/
+Check time 3.580 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/141222-update-domain/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/141130-update-orders/amp/'
+Parent URL https://staronka.kz/blog/141130-update-orders/, line 34, col 5
+Real URL   https://staronka.kz/blog/141130-update-orders/amp/
+Check time 4.070 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/141130-update-orders/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/141117-update-meta/amp/'
+Parent URL https://staronka.kz/blog/141117-update-meta/, line 34, col 5
+Real URL   https://staronka.kz/blog/141117-update-meta/amp/
+Check time 4.573 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/141117-update-meta/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/how-much-does-website-cost/'
+Name       `Сколько стоит создать сайт-визитку?\nБольшинство из нас знает какой сейчас курс белорусского рубля к доллару, знаем мы и сколько стоит литр бензина на…'
+Parent URL https://staronka.kz/blog/141117-update-meta/, line 369, col 17
+Real URL   https://staronka.kz/blog/how-much-does-website-cost/
+Check time 4.291 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/141109-update-billing/'
+Parent URL https://staronka.kz/blog/141109-update-billing/, line 32, col 13
+Real URL   https://staronka.kz/blog/141109-update-billing/
+Check time 3.846 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/141109-update-billing/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/141109-update-billing/amp/'
+Parent URL https://staronka.kz/blog/141109-update-billing/, line 34, col 5
+Real URL   https://staronka.kz/blog/141109-update-billing/amp/
+Check time 4.268 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/141109-update-billing/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/141030-update-statistics/'
+Parent URL https://staronka.kz/blog/141030-update-statistics/, line 32, col 13
+Real URL   https://staronka.kz/blog/141030-update-statistics/
+Check time 3.390 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/141030-update-statistics/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/141030-update-statistics/amp/'
+Parent URL https://staronka.kz/blog/141030-update-statistics/, line 34, col 5
+Real URL   https://staronka.kz/blog/141030-update-statistics/amp/
+Check time 3.980 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/141030-update-statistics/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2015/Ð¼Ð°Ð¹/post-editor-tour.jpg'
+Parent URL https://staronka.kz/blog/150416-update-editor/, line 258, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/post-editor-tour.jpg
+Check time 3.562 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¼Ð°Ð¹/post-editor-settings.jpg'
+Parent URL https://staronka.kz/blog/150416-update-editor/, line 262, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/post-editor-settings.jpg
+Check time 3.063 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/Ð¼Ð°Ð¹/post-editor-before-after.jpg'
+Parent URL https://staronka.kz/blog/150416-update-editor/, line 266, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/post-editor-before-after.jpg
+Check time 3.169 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ²/update-helloworld.png'
+Parent URL https://staronka.kz/blog/150216-update-domains/, line 283, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%84%C3%90%C2%B5%C3%90%C2%B2/update-helloworld.png
+Check time 2.867 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ²/domain-add.png'
+Parent URL https://staronka.kz/blog/150216-update-domains/, line 289, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%84%C3%90%C2%B5%C3%90%C2%B2/domain-add.png
+Check time 3.073 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ²/forms-update.png'
+Parent URL https://staronka.kz/blog/150216-update-domains/, line 295, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%84%C3%90%C2%B5%C3%90%C2%B2/forms-update.png
+Check time 2.942 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ²/redirect-update.png'
+Parent URL https://staronka.kz/blog/150216-update-domains/, line 299, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%84%C3%90%C2%B5%C3%90%C2%B2/redirect-update.png
+Check time 2.451 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐ½Ð²/new-layout.jpg'
+Name       `Â«Ð¡ÑÐ°Ð²Ð½ÐµÐ½Ð¸Ðµ ÑÑÐ°ÑÐ¸ÑÐµÑÐºÐ¾Ð¹ Ð¸ ÑÐµÐ·Ð¸Ð½Ð¾Ð²Ð¾Ð¹ Ð²ÐµÑÑÑÐºÐ¸Â»'
+Parent URL https://staronka.kz/blog/150121-update-ui/, line 282, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%8F%C3%90%C2%BD%C3%90%C2%B2/new-layout.jpg
+Check time 2.848 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐ½Ð²/new-tour.jpg'
+Name       `Â«Ð¡ÐºÑÐ¸Ð½ÑÐ¾ÑÑ ÑÑÑÐ° Ð¸ ÑÐ¿Ð¸ÑÐºÐ° Ð´ÐµÐ»Â»'
+Parent URL https://staronka.kz/blog/150121-update-ui/, line 286, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%8F%C3%90%C2%BD%C3%90%C2%B2/new-tour.jpg
+Check time 2.592 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐ½Ð²/new-details.jpg'
+Name       `Â«Ð¡ÐºÑÐ¸Ð½ÑÐ¾Ñ ÑÐ¾ÑÐ¼Ñ ÑÐµÐºÐ²Ð¸Ð·Ð¸ÑÐ¾Ð²Â»'
+Parent URL https://staronka.kz/blog/150121-update-ui/, line 290, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%8F%C3%90%C2%BD%C3%90%C2%B2/new-details.jpg
+Check time 2.609 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐ½Ð²/slack-notifications.png'
+Name       `Â«ÐÐ·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð½Ð¾Ð¼ÐµÑÐ° ÑÑÐµÑÐ° Ð¿ÑÐ¸ Ð¾Ð¿Ð¾Ð²ÐµÑÐµÐ½Ð¸Ð¸ Ð¾Ð± Ð¾Ð¿Ð»Ð°ÑÐµÂ»'
+Parent URL https://staronka.kz/blog/150102-update-erip/, line 265, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%8F%C3%90%C2%BD%C3%90%C2%B2/slack-notifications.png
+Check time 2.648 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐ½Ð²/github-staronka.png'
+Name       `Â«Ð ÐµÐ¿Ð¾Ð·Ð¸ÑÐ¾ÑÐ¸Ð¹ node-erip-hgroshÂ»'
+Parent URL https://staronka.kz/blog/150102-update-erip/, line 269, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%8F%C3%90%C2%BD%C3%90%C2%B2/github-staronka.png
+Check time 2.671 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/P--P1P-P-P3-Q-P-Q-P-.jpg'
+Name       `ÐÐ¼Ð¸ÑÑÐ¸Ð¹ ÐÐ¾Ð»ÐºÐ¾Ð²'
+Parent URL https://staronka.kz/blog/tag/news/page/14/, line 230, col 37
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/P--P1P-P-P3-Q-P-Q-P-.jpg
+Check time 3.127 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/alpha-has-arrived/amp/'
+Parent URL https://staronka.kz/blog/alpha-has-arrived/, line 34, col 5
+Real URL   https://staronka.kz/blog/alpha-has-arrived/amp/
+Check time 3.572 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/alpha-has-arrived/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/141020-update-editor/amp/'
+Parent URL https://staronka.kz/blog/141020-update-editor/, line 34, col 5
+Real URL   https://staronka.kz/blog/141020-update-editor/amp/
+Check time 3.504 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/141020-update-editor/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2014/Ð´ÐµÐº/update-6-overview.png'
+Name       `Â«ÐÐ½ÑÐµÑÑÐµÐ¹Ñ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ð¸Ñ Ð´Ð¾Ð¼ÐµÐ½Ð°Â»'
+Parent URL https://staronka.kz/blog/141222-update-domain/, line 273, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BA/update-6-overview.png
+Check time 3.341 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð´ÐµÐº/update-6-new.png'
+Name       `Â«ÐÐºÐ½Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ð¸Ðµ Ð´Ð¾Ð¼ÐµÐ½Ð°Â»'
+Parent URL https://staronka.kz/blog/141222-update-domain/, line 277, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BA/update-6-new.png
+Check time 3.374 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð´ÐµÐº/update-5-block.png'
+Name       `Â«ÐÐ·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ðµ ÑÐ¾ÑÐ¼Ñ Ð·Ð°ÐºÐ°Ð·Ð° Ð½Ð° ÑÐ°Ð¹ÑÐµÂ»'
+Parent URL https://staronka.kz/blog/141130-update-orders/, line 270, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BA/update-5-block.png
+Check time 3.234 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð´ÐµÐº/update-6-login.jpg'
+Name       `Â«ÐÐ·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð¹ ÑÑÑÐ°Ð½Ð¸ÑÑ Ð²ÑÐ¾Ð´Ð°Â»'
+Parent URL https://staronka.kz/blog/141222-update-domain/, line 281, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BA/update-6-login.jpg
+Check time 3.714 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð´ÐµÐº/update-5-management.png'
+Name       `Â«ÐÐ·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ðµ ÐºÐ½Ð¾Ð¿Ð¾Ðº ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð¾Ð¼Â»'
+Parent URL https://staronka.kz/blog/141130-update-orders/, line 274, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BA/update-5-management.png
+Check time 3.578 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð´ÐµÐº/update-4-meta.png'
+Name       `Â«ÐÐ°ÑÑÐ¸Ð½ÐºÐ° Ñ Ð¸Ð½ÑÐµÑÑÐµÐ¹ÑÐ¾Ð¼Â»'
+Parent URL https://staronka.kz/blog/141117-update-meta/, line 266, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BA/update-4-meta.png
+Check time 3.370 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/all-you-need-to-know-about-promotion/amp/'
+Parent URL https://staronka.kz/blog/all-you-need-to-know-about-promotion/, line 34, col 5
+Real URL   https://staronka.kz/blog/all-you-need-to-know-about-promotion/amp/
+Check time 3.417 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/all-you-need-to-know-about-promotion/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/author/egor-kuryanovich/page/13/'
+Parent URL https://staronka.kz/blog/author/egor-kuryanovich/page/12/, line 35, col 5
+Real URL   https://staronka.kz/blog/author/egor-kuryanovich/page/13/
+Check time 2.737 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/author/egor-kuryanovich/page/13/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/author/egor-kuryanovich/page/13/'
+Name       `13'
+Parent URL https://staronka.kz/blog/author/egor-kuryanovich/page/12/, line 344, col 17
+Real URL   https://staronka.kz/blog/author/egor-kuryanovich/page/13/
+Check time 2.516 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/mentor-day-minsk/amp/'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 34, col 5
+Real URL   https://staronka.kz/blog/mentor-day-minsk/amp/
+Check time 2.370 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/mentor-day-minsk/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/svietskaia-zhizn/amp/'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 34, col 5
+Real URL   https://staronka.kz/blog/svietskaia-zhizn/amp/
+Check time 2.897 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/svietskaia-zhizn/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/nashi-piervyie-konkursy-startapov-ili-chto-ozhidat-ot-nikh-startapu/amp/'
+Parent URL https://staronka.kz/blog/nashi-piervyie-konkursy-startapov-ili-chto-ozhidat-ot-nikh-startapu/, line 34, col 5
+Real URL   https://staronka.kz/blog/nashi-piervyie-konkursy-startapov-ili-chto-ozhidat-ot-nikh-startapu/amp/
+Check time 3.185 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/nashi-piervyie-konkursy-startapov-ili-chto-ozhidat-ot-nikh-startapu/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2014/ÑÐµÐ½/alpha-2.jpg'
+Parent URL https://staronka.kz/blog/alpha-has-arrived/, line 257, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/alpha-2.jpg
+Check time 3.166 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/ÑÐµÐ½/alpha-1.jpg'
+Parent URL https://staronka.kz/blog/alpha-has-arrived/, line 261, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/alpha-1.jpg
+Check time 3.416 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/ÑÐµÐ½/alpha-3.jpg'
+Parent URL https://staronka.kz/blog/alpha-has-arrived/, line 261, col 90
+Real URL   https://staronka.kz/content/images/2014/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/alpha-3.jpg
+Check time 3.014 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/ÑÐµÐ½/alpha-5.jpg'
+Parent URL https://staronka.kz/blog/alpha-has-arrived/, line 265, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/alpha-5.jpg
+Check time 3.498 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/ÑÐµÐ½/alpha-4.jpg'
+Parent URL https://staronka.kz/blog/alpha-has-arrived/, line 267, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/alpha-4.jpg
+Check time 3.213 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/metriki-saas-startup/amp/'
+Parent URL https://staronka.kz/blog/metriki-saas-startup/, line 34, col 5
+Real URL   https://staronka.kz/blog/metriki-saas-startup/amp/
+Check time 3.909 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/metriki-saas-startup/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/how-to-run-a-successful-startup/'
+Parent URL https://staronka.kz/blog/how-to-run-a-successful-startup/, line 32, col 13
+Real URL   https://staronka.kz/blog/how-to-run-a-successful-startup/
+Check time 3.887 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/how-to-run-a-successful-startup/'.
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/how-to-run-a-successful-startup/amp/'
+Parent URL https://staronka.kz/blog/how-to-run-a-successful-startup/, line 34, col 5
+Real URL   https://staronka.kz/blog/how-to-run-a-successful-startup/amp/
+Check time 3.838 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/how-to-run-a-successful-startup/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2014/Ð´ÐµÐº/update-1-editor.png'
+Parent URL https://staronka.kz/blog/141020-update-editor/, line 272, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%BA/update-1-editor.png
+Check time 3.054 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ½/post-kvetka-aksany.jpg'
+Parent URL https://staronka.kz/blog/all-you-need-to-know-about-promotion/, line 262, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/post-kvetka-aksany.jpg
+Check time 3.254 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ½/post-husky-top-10.jpg'
+Parent URL https://staronka.kz/blog/all-you-need-to-know-about-promotion/, line 267, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/post-husky-top-10.jpg
+Check time 3.533 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ½/post-do-i-posle-seo.jpg'
+Parent URL https://staronka.kz/blog/all-you-need-to-know-about-promotion/, line 300, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/post-do-i-posle-seo.jpg
+Check time 3.651 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ½/post-oformlenie-svadeb-mins.jpg'
+Parent URL https://staronka.kz/blog/all-you-need-to-know-about-promotion/, line 314, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/post-oformlenie-svadeb-mins.jpg
+Check time 3.399 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2015/ÑÐµÐ½/post-cost-of-yandex-direct.jpg'
+Parent URL https://staronka.kz/blog/all-you-need-to-know-about-promotion/, line 329, col 4
+Real URL   https://staronka.kz/content/images/2015/%C3%91%C2%81%C3%90%C2%B5%C3%90%C2%BD/post-cost-of-yandex-direct.jpg
+Check time 3.485 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/1.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 255, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/1.jpg
+Check time 3.212 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/2.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 261, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/2.jpg
+Check time 3.393 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/3.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 263, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/3.jpg
+Check time 2.932 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/5.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 267, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/5.jpg
+Check time 2.523 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/4.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 265, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/4.jpg
+Check time 2.703 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/6.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 269, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/6.jpg
+Check time 2.674 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/7.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 271, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/7.jpg
+Check time 2.488 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/8.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 278, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/8.jpg
+Check time 2.610 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/9.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 279, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/9.jpg
+Check time 2.642 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/10.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 283, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/10.jpg
+Check time 2.454 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/11.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 284, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/11.jpg
+Check time 2.712 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/12.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 285, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/12.jpg
+Check time 2.848 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/13.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 290, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/13.jpg
+Check time 3.033 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/14.jpg'
+Parent URL https://staronka.kz/blog/mentor-day-minsk/, line 294, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/14.jpg
+Check time 3.129 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/why-brand-is-so-important/amp/'
+Parent URL https://staronka.kz/blog/why-brand-is-so-important/, line 34, col 5
+Real URL   https://staronka.kz/blog/why-brand-is-so-important/amp/
+Check time 3.614 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/why-brand-is-so-important/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/author/andriei-riabchuk/'
+Name       `Андрей Рябчук'
+Parent URL https://staronka.kz/blog/why-brand-is-so-important/, line 234, col 45
+Real URL   https://staronka.kz/blog/author/andriei-riabchuk/
+Check time 3.291 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/bynet-stats/'
+Name       `Кратчайшая статистика байнета\nВсе говорят о байнете, но мало кто знает какого он размера и что именно в нем происходит. Я собрал…'
+Parent URL https://staronka.kz/blog/why-brand-is-so-important/, line 362, col 17
+Real URL   https://staronka.kz/blog/bynet-stats/
+Check time 3.336 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/chto-nashi-kliienty-dolzhny-znat-pro-kpi/amp/'
+Parent URL https://staronka.kz/blog/chto-nashi-kliienty-dolzhny-znat-pro-kpi/, line 34, col 5
+Real URL   https://staronka.kz/blog/chto-nashi-kliienty-dolzhny-znat-pro-kpi/amp/
+Check time 3.493 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/chto-nashi-kliienty-dolzhny-znat-pro-kpi/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/mobile-version-howto/'
+Name       `Всё, что нужно знать о мобильной версии сайта\nСегодня вы узнаете ответ на два вопроса: «Стоит ли делать мобильную версию?» и «Как сделать мобильную версию сайта правильно?…'
+Parent URL https://staronka.kz/blog/chto-nashi-kliienty-dolzhny-znat-pro-kpi/, line 389, col 17
+Real URL   https://staronka.kz/blog/mobile-version-howto/
+Check time 3.341 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/IMG_5554.jpg'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 256, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/IMG_5554.jpg
+Check time 3.570 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/IMG_5559.jpg'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 259, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/IMG_5559.jpg
+Check time 3.595 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/IMG_5561.jpg'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 262, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/IMG_5561.jpg
+Check time 3.094 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/IMG_5563.jpg'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 265, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/IMG_5563.jpg
+Check time 2.882 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/IMG_5567.jpg'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 268, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/IMG_5567.jpg
+Check time 3.276 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/IMG_5572.jpg'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 271, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/IMG_5572.jpg
+Check time 3.524 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/IMG_5573.jpg'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 274, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/IMG_5573.jpg
+Check time 3.652 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/IMG_5579.jpg'
+Parent URL https://staronka.kz/blog/svietskaia-zhizn/, line 277, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/IMG_5579.jpg
+Check time 3.773 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/pochemy-tak-vazhno-imet-svoi-sobstviennyi-sait/amp/'
+Parent URL https://staronka.kz/blog/pochemy-tak-vazhno-imet-svoi-sobstviennyi-sait/, line 34, col 5
+Real URL   https://staronka.kz/blog/pochemy-tak-vazhno-imet-svoi-sobstviennyi-sait/amp/
+Check time 3.652 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/pochemy-tak-vazhno-imet-svoi-sobstviennyi-sait/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/three-things-for-your-site/'
+Name       `Три вещи, которые нужно сделать после запуска сайта\nВы уже создали сайт и вполне довольны собой. А теперь начинается самое интересное — вам придется его запускать в свободное…'
+Parent URL https://staronka.kz/blog/pochemy-tak-vazhno-imet-svoi-sobstviennyi-sait/, line 407, col 17
+Real URL   https://staronka.kz/blog/three-things-for-your-site/
+Check time 4.398 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/kak-obshchatsia-s-kliientom/amp/'
+Parent URL https://staronka.kz/blog/kak-obshchatsia-s-kliientom/, line 34, col 5
+Real URL   https://staronka.kz/blog/kak-obshchatsia-s-kliientom/amp/
+Check time 3.270 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/kak-obshchatsia-s-kliientom/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/blog/how-start-selling/'
+Name       `Увеличение продаж: с чего начинать?\nОчередной гостевой пост Андрея Рябчука. С долей рынка можно так сказать мы разобрались, все конечно очень условно, и нельзя…'
+Parent URL https://staronka.kz/blog/kak-obshchatsia-s-kliientom/, line 380, col 17
+Real URL   https://staronka.kz/blog/how-start-selling/
+Check time 3.600 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/odnostranichnyie/amp/'
+Parent URL https://staronka.kz/blog/odnostranichnyie/, line 34, col 5
+Real URL   https://staronka.kz/blog/odnostranichnyie/amp/
+Check time 3.530 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/odnostranichnyie/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/start2go2014.jpg'
+Parent URL https://staronka.kz/blog/nashi-piervyie-konkursy-startapov-ili-chto-ozhidat-ot-nikh-startapu/, line 272, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/start2go2014.jpg
+Check time 3.005 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/BelarusStartup2014.jpg'
+Parent URL https://staronka.kz/blog/nashi-piervyie-konkursy-startapov-ili-chto-ozhidat-ot-nikh-startapu/, line 299, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/BelarusStartup2014.jpg
+Check time 2.576 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/kak-startapu-naiti-ofis/amp/'
+Parent URL https://staronka.kz/blog/kak-startapu-naiti-ofis/, line 34, col 5
+Real URL   https://staronka.kz/blog/kak-startapu-naiti-ofis/amp/
+Check time 3.615 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/kak-startapu-naiti-ofis/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2014/Ð¾ÐºÑ/metriki-saas-model.jpg'
+Parent URL https://staronka.kz/blog/metriki-saas-startup/, line 259, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BE%C3%90%C2%BA%C3%91%C2%82/metriki-saas-model.jpg
+Check time 3.921 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¾ÐºÑ/client-of-saas.gif'
+Parent URL https://staronka.kz/blog/metriki-saas-startup/, line 272, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BE%C3%90%C2%BA%C3%91%C2%82/client-of-saas.gif
+Check time 4.127 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¾ÐºÑ/views-of-saas-metrik.gif'
+Parent URL https://staronka.kz/blog/metriki-saas-startup/, line 303, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BE%C3%90%C2%BA%C3%91%C2%82/views-of-saas-metrik.gif
+Check time 3.970 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¾ÐºÑ/cat-is-loooking-for-metrik-saas.gif'
+Parent URL https://staronka.kz/blog/metriki-saas-startup/, line 329, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BE%C3%90%C2%BA%C3%91%C2%82/cat-is-loooking-for-metrik-saas.gif
+Check time 4.487 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/GFRANQ_VK2655948590128_64485912_.jpg'
+Name       `ÐÐ½Ð´ÑÐµÐ¹ Ð ÑÐ±ÑÑÐº'
+Parent URL https://staronka.kz/blog/why-brand-is-so-important/, line 233, col 45
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/GFRANQ_VK2655948590128_64485912_.jpg
+Check time 4.203 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/15513_a1.jpg'
+Parent URL https://staronka.kz/blog/why-brand-is-so-important/, line 259, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/15513_a1.jpg
+Check time 4.541 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/31808163.jpg'
+Parent URL https://staronka.kz/blog/why-brand-is-so-important/, line 265, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/31808163.jpg
+Check time 4.069 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/P-P-P--P4P-Q--P1P-P-P3P0.jpg'
+Parent URL https://staronka.kz/blog/chto-nashi-kliienty-dolzhny-znat-pro-kpi/, line 253, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/P-P-P--P4P-Q--P1P-P-P3P0.jpg
+Check time 4.364 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/P-P0P-P0P-Q-P1P5Q-Q-.jpg'
+Parent URL https://staronka.kz/blog/chto-nashi-kliienty-dolzhny-znat-pro-kpi/, line 275, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/P-P0P-P0P-Q-P1P5Q-Q-.jpg
+Check time 4.124 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/P-Q-P0P-P3P5P-Q-P8Q-P-Q-P-Q-.jpg'
+Parent URL https://staronka.kz/blog/chto-nashi-kliienty-dolzhny-znat-pro-kpi/, line 287, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/P-Q-P0P-P3P5P-Q-P8Q-P-Q-P-Q-.jpg
+Check time 4.157 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/vash-bizness-bez-sita.gif'
+Name       `alt'
+Parent URL https://staronka.kz/blog/pochemy-tak-vazhno-imet-svoi-sobstviennyi-sait/, line 267, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/vash-bizness-bez-sita.gif
+Check time 4.366 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/nastoyaschaya-konkyrencia.jpg'
+Name       `alt'
+Parent URL https://staronka.kz/blog/pochemy-tak-vazhno-imet-svoi-sobstviennyi-sait/, line 281, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/nastoyaschaya-konkyrencia.jpg
+Check time 4.312 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¼Ð°Ð¹/primerno-vot-tak-klienty-reagiryut.gif'
+Name       `alt'
+Parent URL https://staronka.kz/blog/pochemy-tak-vazhno-imet-svoi-sobstviennyi-sait/, line 300, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%BC%C3%90%C2%B0%C3%90%C2%B9/primerno-vot-tak-klienty-reagiryut.gif
+Check time 3.301 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/P4P2P0-P2P-P-P-P0.jpg'
+Parent URL https://staronka.kz/blog/kak-obshchatsia-s-kliientom/, line 253, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/P4P2P0-P2P-P-P-P0.jpg
+Check time 3.181 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ»Ñ/P-Q-Q-Q-P5Q-P0-1.jpg'
+Parent URL https://staronka.kz/blog/kak-obshchatsia-s-kliientom/, line 269, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BB%C3%91%C2%8C/P-Q-Q-Q-P5Q-P0-1.jpg
+Check time 3.594 seconds
+Result     Error: 404 Not Found
+
+URL        `http://staronka.kz/blog/modern-site-vizitka/amp/'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 34, col 5
+Real URL   https://staronka.kz/blog/modern-site-vizitka/amp/
+Check time 4.690 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/modern-site-vizitka/amp/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2014/Ð°Ð¿Ñ/Q-P0P9Q--3.png'
+Name       `alt'
+Parent URL https://staronka.kz/blog/odnostranichnyie/, line 274, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B0%C3%90%C2%BF%C3%91%C2%80/Q-P0P9Q--3.png
+Check time 2.728 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð°Ð¿Ñ/Q-P0P9Q-2-1.png'
+Name       `alt'
+Parent URL https://staronka.kz/blog/odnostranichnyie/, line 276, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B0%C3%90%C2%BF%C3%91%C2%80/Q-P0P9Q-2-1.png
+Check time 2.597 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð°Ð¿Ñ/ppp-1.png'
+Name       `Ð¦ÐµÐ½Ñ Ð² Ð±Ð¸Ð·Ð½ÐµÑ-ÑÐµÐ½ÑÑÐ°Ñ ÑÐ°Ð·Ð½ÑÑ ÐºÐ»Ð°ÑÑÐ¾Ð²'
+Parent URL https://staronka.kz/blog/kak-startapu-naiti-ofis/, line 257, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B0%C3%90%C2%BF%C3%91%C2%80/ppp-1.png
+Check time 2.820 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð°Ð¿Ñ/staronka-office-choose.jpg'
+Name       `ÐÐ°ÑÑÐ¸Ð½ÐºÐ° Ñ Ð²Ð¸Ð´Ð¾Ð¼ Ð¸Ð· Ð³Ð¾ÑÐ¸Ð·Ð¾Ð½ÑÐ¾Ð²ÑÐºÐ¾Ð³Ð¾ Ð¾ÑÐ¸ÑÐ°'
+Parent URL https://staronka.kz/blog/kak-startapu-naiti-ofis/, line 271, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B0%C3%90%C2%BF%C3%91%C2%80/staronka-office-choose.jpg
+Check time 2.948 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð°Ð¿Ñ/staronka-office-window.jpg'
+Parent URL https://staronka.kz/blog/kak-startapu-naiti-ofis/, line 281, col 4
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B0%C3%90%C2%BF%C3%91%C2%80/staronka-office-window.jpg
+Check time 3.312 seconds
+Result     Error: 404 Not Found
+
+URL        `/blog/tag/academy/page/18/'
+Name       `18'
+Parent URL https://staronka.kz/blog/tag/academy/page/17/, line 340, col 17
+Real URL   https://staronka.kz/blog/tag/academy/page/18/
+Check time 3.160 seconds
+Size       182B
+Result     Error: 502 Bad Gateway
+
+URL        `http://staronka.kz/blog/tag/academy/page/18/'
+Parent URL https://staronka.kz/blog/tag/academy/page/17/, line 35, col 5
+Real URL   https://staronka.kz/blog/tag/academy/page/18/
+Check time 3.564 seconds
+Size       182B
+Info       Redirected to
+           `https://staronka.kz/blog/tag/academy/page/18/'.
+Result     Error: 502 Bad Gateway
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/escalate-by.jpg'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 260, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/escalate-by.jpg
+Check time 2.965 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/otdelka-doma-by.jpg'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 266, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/otdelka-doma-by.jpg
+Check time 3.334 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/perevezy-by-1.jpg'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 272, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/perevezy-by-1.jpg
+Check time 3.402 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/poligrafia-by.jpg'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 278, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/poligrafia-by.jpg
+Check time 3.849 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/hardtosee.gif'
+Name       `Ð¢ÑÑÐ´Ð½Ð¾ ÑÐ¼Ð¾ÑÑÐµÑÑ Ð½Ð° ÑÐ°ÐºÐ¸Ðµ ÑÐ°Ð¹ÑÑ'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 285, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/hardtosee.gif
+Check time 3.687 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/structure-02.png'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 301, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/structure-02.png
+Check time 3.596 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/yarosh-by.jpg'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 314, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/yarosh-by.jpg
+Check time 3.649 seconds
+Result     Error: 404 Not Found
+
+URL        `/content/images/2014/Ð¸ÑÐ½Ñ/Q-Q-P--Q-P4P5P-P0Q-Q--Q-Q-P--P1Q--P-P-P8P5P-Q-Q--P-P5-Q-Q-P-P4P8P-P8.gif'
+Parent URL https://staronka.kz/blog/modern-site-vizitka/, line 330, col 1
+Real URL   https://staronka.kz/content/images/2014/%C3%90%C2%B8%C3%91%C2%8E%C3%90%C2%BD%C3%91%C2%8C/Q-Q-P--Q-P4P5P-P0Q-Q--Q-Q-P--P1Q--P-P-P8P5P-Q-Q--P-P5-Q-Q-P-P4P8P-P8.gif
+Check time 3.562 seconds
+Result     Error: 404 Not Found
+
+Statistics:
+Downloaded: 59.2MB.
+Content types: 2459 image, 1600 text, 2 video, 0 audio, 38 application, 5 mail and 3971 other.
+URL lengths: min=12, max=376, avg=72.
+
+That's it. 8075 links in 8372 URLs checked. 0 warnings found. 231 errors found.
+Stopped checking at 2021-02-26 15:18:47+003 (24 minutes, 15 seconds)
